@@ -1,0 +1,9 @@
+org\example\domain\DBconnector.class
+org\example\controllers\applicationController.class
+org\example\controllers\tableViewController.class
+org\example\controllers\detailedViewController.class
+module-info.class
+org\example\domain\usersDao.class
+org\example\domain\users.class
+org\example\App.class
+org\example\controllers\tableViewPrivilegesController.class
